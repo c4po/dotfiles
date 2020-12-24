@@ -28,3 +28,6 @@
   path = ~/.gitconfig.local
 [diff]
   colorMoved = zebra
+[user]
+	email = zhiyuan.cai@gmail.com
+	name = Max Cai
