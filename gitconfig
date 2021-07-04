@@ -31,3 +31,5 @@
 [user]
 	email = zhiyuan.cai@gmail.com
 	name = Max Cai
+[pull]
+	rebase = false
